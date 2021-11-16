@@ -1,0 +1,1 @@
+ctl+shift+` to open up terminal
